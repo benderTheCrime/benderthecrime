@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "benderthecrime",
+  "version": "1.0.0",
+  "description": "A personal card for Joe Groseclose (@benderthecrime)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/benderthecrime.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
