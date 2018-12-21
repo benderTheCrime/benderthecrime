@@ -1,6 +1,6 @@
 {
   "name": "benderthecrime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Joe Groseclose (@benderthecrime)",
   "main": "index.js",
   "bin": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benderthecrime.git"
+    "url": "https://github.com/benderthecrime/benderthecrime.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Joe Groseclose <joe@groseclose.io> (https://joe.groseclose.io)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
