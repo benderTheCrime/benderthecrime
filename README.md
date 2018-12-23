@@ -1,4 +1,4 @@
-It's me!
+It's me, benderthecrime!
 
 # Usage
 Via npx:
