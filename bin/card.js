@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Joe Groseclose /'),
   handle: chalk.cyan('benderthecrime'),
-  work: chalk.white('Engineering Manager at Compass!'),
+  work: chalk.white('Associate Director of Engineering at Oscar Health!'),
   twitter: chalk.cyan('https://twitter.com/benderthecrime'),
   github: chalk.cyan('https://github.com/benderthecrime'),
   linkedin: chalk.cyan('https://linkedin.com/in/benderthecrime'),
