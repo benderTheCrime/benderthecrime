@@ -1,6 +1,6 @@
 {
   "name": "benderthecrime",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A personal card for Joe Groseclose (@benderthecrime)",
   "main": "index.js",
   "bin": {
